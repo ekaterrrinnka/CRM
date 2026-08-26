@@ -62,6 +62,4 @@ npm run start
 - Авторизація (JWT/session), ролі та права доступу
 - Таблиці з фільтрами/пагінацією, форми з валідацією
 
-## Link
 
-- **GitHub**: `https://github.com/ekaterrrinnka/CRM`
